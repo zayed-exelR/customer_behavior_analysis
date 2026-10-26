@@ -69,7 +69,8 @@ This repository includes:
 - Communicating findings through reports and presentations
   
 ## Dashboard Preview
-dashboard.png
+
+[dashboard.png](https://github.com/zayed-exelR/customer_behavior_analysis/blob/main/dashboard.png)
 
 ## Conclusion
 
