@@ -67,6 +67,9 @@ This repository includes:
 - Customer segmentation
 - Data visualization and dashboard development
 - Communicating findings through reports and presentations
+  
+## Dashboard Preview
+dashboard.png
 
 ## Conclusion
 
